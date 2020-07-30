@@ -20,7 +20,7 @@
 ```javascript
 const nazmi = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, elixir, ruby],
+  code: [Javascript, HTML, CSS, Elixir, Ruby],
   tools: [
     Docker,
     Jest,
@@ -29,8 +29,8 @@ const nazmi = {
     Redux,
     Storybook,
     StyledComponents,
-    terraform,
-    xstate,
+    Terraform,
+    XState,
   ],
   architecture: [
     "microservices",
