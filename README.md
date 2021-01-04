@@ -6,12 +6,6 @@
   src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/business-card.gif"
   width="230"
 />
-<p>
-  <em
-    >Software Developer at
-    <a href="https://siliconjungles.io">Silicon Jungles</a>
-  </em>
-</p>
 
 [![Twitter: NazmiFeeroz](https://img.shields.io/twitter/follow/nazmifeeroz?style=social)](https://twitter.com/NazmiFeeroz)
 [![Linkedin: NazmiFeeroz](https://img.shields.io/badge/-nazmifeeroz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmi-feeroz/)](https://www.linkedin.com/in/nazmi-feeroz/)
@@ -19,7 +13,6 @@
 
 ```javascript
 const nazmi = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Elixir, Ruby],
   tools: [
     Docker,
