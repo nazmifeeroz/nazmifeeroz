@@ -1,5 +1,6 @@
 <h2>
   Hi, I'm Nazmi! 👋 <img
+                         align="right"
   src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png"
 />
 </h2>
