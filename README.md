@@ -84,3 +84,8 @@ const nazmi = {
     style="vertical-align: top; margin: 4px;"
   />
 </p>
+
+<img
+  align="right"
+  src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/nazmi-cli.gif"
+/>
