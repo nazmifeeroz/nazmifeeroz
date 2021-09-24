@@ -86,6 +86,6 @@ const nazmi = {
 </p>
 
 <img
-  align="right"
+  align="center"
   src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/nazmi-cli.gif"
 />
