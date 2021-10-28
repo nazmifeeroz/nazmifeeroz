@@ -4,7 +4,6 @@
   src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png"
 />
 </h2>
-<a href="https://app.daily.dev/nazmi"><img src="https://api.daily.dev/devcards/d3634b495fe24b3fa073ce5b5c86b330.png?r=41l" width="400" alt="Nazmi's Dev Card"/></a>
 <img
   align="right"
   src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/business-card.gif"
@@ -90,3 +89,4 @@ const nazmi = {
   align="center"
   src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/nazmi-cli.gif"
 />
+<a href="https://app.daily.dev/nazmi"><img src="https://api.daily.dev/devcards/d3634b495fe24b3fa073ce5b5c86b330.png?r=41l" width="400" alt="Nazmi's Dev Card"/></a>
