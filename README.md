@@ -89,4 +89,3 @@ const nazmi = {
   align="center"
   src="https://github.com/nazmifeeroz/nazmifeeroz/raw/master/nazmi-cli.gif"
 />
-<a href="https://app.daily.dev/nazmi"><img src="https://api.daily.dev/devcards/d3634b495fe24b3fa073ce5b5c86b330.png?r=41l" width="400" alt="Nazmi's Dev Card"/></a>
